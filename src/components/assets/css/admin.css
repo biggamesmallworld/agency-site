@@ -1,0 +1,20 @@
+.login-page {
+    min-height: 100vh;
+    background: #eee;
+    padding-top: 100px;
+}
+
+.login-form {
+    max-width: 500px;
+    padding-top: 100px;
+    background: #fff;
+    margin: auto;
+    padding: 30px;
+
+}
+
+.login-form h1 {
+    display: block;
+    font-size: 22px;
+    margin-bottom: 20px;
+}
