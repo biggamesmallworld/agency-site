@@ -5,7 +5,7 @@ let host;
 if(process.env.NODE_ENV === "development") {
     host = "http://localhost:8080";
 } else {
-    host = "http://demoapi.willnahmens.com";
+    host = "http://demoapi.161.35.127.93";
 }
 
 
